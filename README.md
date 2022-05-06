@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dan.
-- 👀 I’m interested in everything about JavaScript.
+- 👀 I’m interested in interesting things.
 - 🌱 I’m currently learning Nest.js, Nuxt.js and Nest.js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
