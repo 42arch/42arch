@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dan.
 - 👀 I’m interested in interesting things.
 - 🌱 I’m currently learning Nest.js, Nuxt.js and Nest.js.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on funny things.
+- 📫 How to reach me? Mail me: rend42@163.com
 
 <!---
 REND42/REND42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
