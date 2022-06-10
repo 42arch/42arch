@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dan.
 - 👀 I’m interested in Web Development, Data Visualization.
-- 🌱 I’m currently learning Nest.js, Nuxt.js and Nest.js.
+- 🌱 I’m currently learning Nest.js, Nuxt.js, Nest.js and Three.js.
 - 💞️ I’m looking to collaborate on funny things.
 - 📫 How to reach me? Mail me: rend42@163.com
 
