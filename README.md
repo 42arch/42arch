@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Dan.
-- 🖥️ Focusing on: Map, 3D, and Web.
+- 🖥️ I do Map, 3D, and Web development things.
 - 🌐 Visit my site: https://42nd.city
