@@ -1,3 +1,1 @@
 - 👋 Hi, I’m Dan.
-- 🖥️ Working on: Map, 3D, and Web.
-- 🌐 Visit my site: https://42nd.city
